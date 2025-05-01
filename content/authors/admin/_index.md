@@ -3,7 +3,7 @@
 title: 李萱
 
 # Name pronunciation (optional)
-name_pronunciation: Xuan
+name_pronunciation: Xuan Li
 
 # Full name (for SEO)
 first_name: Xuan
