@@ -33,7 +33,7 @@ profiles:
     url: 'mailto:lixuan@hanyang.ac.kr'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/XUAN-24601/XUAN-24601.github.io
+    url: https://github.com/XUAN-24601
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xuan-li-036a59258/
   - icon: academicons/google-scholar
