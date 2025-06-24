@@ -172,6 +172,4 @@ conferences:
     date: "2022-10"
 ---
 
-I am a Ph.D. student in the Department of Urban Planning and Engineering at Hanyang University, Seoul, South Korea. My supervisor is Prof. Sugie Lee. My research focuses on human mobility, urban structures, and the application of machine learning in urban science. I am particularly interested in leveraging large language models for urban big data management and analysis.
-
-My work combines traditional urban planning approaches with cutting-edge data science techniques to understand and improve urban mobility patterns. I have published several papers on topics including public bike systems, transit resilience during the COVID-19 pandemic, and gender-based mobility patterns in urban areas.
+I am a Ph.D. student in the Department of Urban Planning and Engineering at Hanyang University, Seoul, South Korea. My supervisor is Prof. Sugie Lee. My research focuses on human mobility, urban structures, and the application of machine learning in urban science. At this moment, I am particularly interested in leveraging large language models for urban big data management and analysis.
